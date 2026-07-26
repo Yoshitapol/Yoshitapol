@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Yoshita Pol
+# Yoshita Pol
 
 ### AI & Machine Learning Student
 
