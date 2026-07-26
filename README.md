@@ -259,27 +259,6 @@ A collection of web development projects built while learning frontend and backe
 
 ---
 
-# 💻 Competitive Programming
-
-I regularly solve Data Structures and Algorithms problems to strengthen problem-solving skills.
-
-### Platforms
-
-- LeetCode
-
-### Topics
-
-- Arrays
-- Strings
-- Binary Search
-- Linked Lists
-- Trees
-- Stacks
-- Queues
-- Hash Maps
-- Dynamic Programming
-- Greedy Algorithms
-
 <a href="https://github.com/Yoshitapol/centralized-feature-store-viewership">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yoshitapol&repo=centralized-feature-store-viewership&theme=tokyonight" />
 </a>
